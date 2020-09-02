@@ -14,13 +14,13 @@
 
 <img align="left" src="https://img.icons8.com/officel/40/000000/react.png"/>
 <img align="left" src="https://img.icons8.com/nolan/40/html-5.png"/>
-<img src="https://img.icons8.com/color/40/000000/css-filetype.png"/>
-<img src="https://img.icons8.com/color/40/000000/redux.png"/>
-<img src="https://img.icons8.com/officel/40/000000/asp.png"/>
-<img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/40/000000/firebase.png"/>
-<img src="https://img.icons8.com/nolan/40/heroku.png"/>
-<img src="https://img.icons8.com/color/40/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/40/000000/mongodb.png"/>
-<img src="https://img.icons8.com/bubbles/40/000000/github.png"/>
-<img src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/>
+<img align="left" src="https://img.icons8.com/color/40/000000/css-filetype.png"/>
+<img align="left" src="https://img.icons8.com/color/40/000000/redux.png"/>
+<img align="left" src="https://img.icons8.com/officel/40/000000/asp.png"/>
+<img align="left" src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
+<img align="left" src="https://img.icons8.com/color/40/000000/firebase.png"/>
+<img align="left" src="https://img.icons8.com/nolan/40/heroku.png"/>
+<img align="left" src="https://img.icons8.com/color/40/000000/javascript.png"/>
+<img align="left" src="https://img.icons8.com/color/40/000000/mongodb.png"/>
+<img align="left" src="https://img.icons8.com/bubbles/40/000000/github.png"/>
+<img align="left" src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/>
