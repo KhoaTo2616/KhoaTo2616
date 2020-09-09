@@ -25,9 +25,9 @@
 <img align="left" src="https://img.icons8.com/color/40/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/bubbles/40/000000/github.png"/>
 <img align="left" src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/>
-<br/>
+<br/><br/>
 
-### Here Are Some Of My Lastest Work
+### Here are some of my lastest work:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
