@@ -29,5 +29,5 @@
 
 ### Here are some of my lastest work:
 
-:point*right:\*\*\_This is a burger ordering project. Check it out*\*\*:point_down:
+:point_right: This is a burger ordering application. Check it out! :point_down:
 <a href="https://quirky-varahamihira-316599.netlify.app/"></a>
