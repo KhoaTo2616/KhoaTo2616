@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on enhancing my WordPress website.
 - 🌱 I’m currently learning mostly everything that related to front-end development.
-- :office: I'm currently looking for a new opportunity as a Software Developer.
+- :eyes: I'm currently looking for a new opportunity as a Software Developer.
 
 ### Connect with me:
 
@@ -25,3 +25,9 @@
 <img align="left" src="https://img.icons8.com/color/40/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/bubbles/40/000000/github.png"/>
 <img align="left" src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/>
+<br/>
+
+### Here Are Some Of My Lastest Work
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
