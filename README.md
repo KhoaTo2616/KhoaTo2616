@@ -29,5 +29,5 @@
 
 ### Here are some of my lastest work:
 
-:point_right: This is a burger ordering application. Check it out! :point_down:
-https://burger-app-87a25.firebaseapp.com/
+- **_This is a burger ordering application. Check it out!_** :point_right:
+  https://burger-app-87a25.firebaseapp.com/
