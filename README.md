@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on enhancing my WordPress website.
 - 🌱 I’m currently learning mostly everything that related to front-end development.
+- :office: I'm currently looking for a new opportunity as a Software Developer.
 
 ### Connect with me:
 
