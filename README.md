@@ -31,3 +31,7 @@
 
 - **_This is a burger ordering application. Check it out!_** :point_right:
   https://burger-app-87a25.firebaseapp.com/
+- **_This is a real-time chat application. Check it out!_** :point_right:
+  https://my-chat-application.netlify.app/
+- **_This is my blog application. Check it out!_** :point_right:
+  http://ec2-13-58-94-175.us-east-2.compute.amazonaws.com/
