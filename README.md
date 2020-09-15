@@ -35,3 +35,5 @@
   https://my-chat-application.netlify.app/
 - **_This is my blog application. Check it out!_** :point_right:
   http://ec2-13-58-94-175.us-east-2.compute.amazonaws.com/
+- **_This is memory cards application. Check it out!_** :point_right:
+  https://my-memory-cards.netlify.app/
