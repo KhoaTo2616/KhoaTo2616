@@ -1,7 +1,7 @@
 ## Hi there. My name is Khoa and I am currently completing Honours Bachelor of Mobile Computing at Sheridan College 👋
 
-- 🔭 I’m currently working on enhancing my WordPress website.
-- 🌱 I’m currently learning mostly everything that related to front-end development.
+- 🔭 I’m currently finding my first Co-op opportunity.
+- 🌱 I’m currently learning Cloud platform (AWS Amplify).
 - :eyes: I'm currently looking for a new opportunity as a Software Developer.
 
 ### Connect with me:
