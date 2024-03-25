@@ -1,4 +1,4 @@
-## Hi there. My name is Khoa and I am currently graduated from Computer System Technology at Sheridan College 👋
+## Hi there. My name is Khoa and I am currently completing Honours Bachelor of Mobile Computing at Sheridan College 👋
 
 - 🔭 I’m currently working on enhancing my WordPress website.
 - 🌱 I’m currently learning mostly everything that related to front-end development.
